@@ -113,7 +113,7 @@ button:hover{
     
   }
   .img{
-    background-image: url(/images/image-product-desktop.jpg);
+    background-image: url(images/image-product-desktop.jpg);
     border-top-right-radius: 0px;
     border-bottom-left-radius: 10px;
   }
