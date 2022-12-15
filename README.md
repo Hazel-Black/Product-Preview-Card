@@ -21,9 +21,11 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
+*I did this project a while ago but never pushed it to frontend mentor, I found myself overthinking alot and stressing about getting it perfect. I look forward to getting feedback on this project and redoinging this  again once I gain more experience with HTML & CSS. I will try not to stress towards perfection, my main goal is to learn, Thank you for viewing.*
+
 ### Screenshot
 
-![](./screenshot.jpg)
+![](images/Screenshot%202022-12-15%20at%201.11.17%20PM.png)
 
 ### Links
 
