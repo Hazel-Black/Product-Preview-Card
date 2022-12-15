@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://hazel-black.github.io/Product-Preview-Card/)
+- Live Site URL: [https://hazel-black.github.io/Product-Preview-Card/](https://hazel-black.github.io/Product-Preview-Card/)
 
 
 ### Built with
